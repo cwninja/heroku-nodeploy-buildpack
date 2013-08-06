@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-echo "------> Deployment disabled"
-exit 1
+echo "Deployment disabled"
