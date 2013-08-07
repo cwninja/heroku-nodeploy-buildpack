@@ -27,4 +27,4 @@ Now when you push to heroku, it won't work.
     !     Push rejected, failed to compile Deployment disabled app
     $
 
-Simply configure, sit back, relax, and embrance the broken nature of the world around you.
+Simply configure, sit back, relax, and embrace the broken nature of the world around you.
